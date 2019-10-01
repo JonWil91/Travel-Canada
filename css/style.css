@@ -1,0 +1,117 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f1cccc;
+}
+
+/* landing page */
+
+.callout-container {
+    height: 100vh;
+    background: url("../images/canada-landing-page.jpg") no-repeat bottom right fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.jumbotron {
+    background-color: transparent;
+    margin-top: 30px;
+    color: #fafafa;
+}
+
+.lead {
+    margin-top: 50px;
+    color: #de5858;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+
+}
+
+
+/* /landing page */
+
+/* Navbar */
+
+.navalert-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding-left: 0;
+    padding-right: 0;
+    z-index: 1;
+    background-color: #ff0000;
+}
+
+.navbar {
+    margin-bottom: 0;
+    border: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.25);
+}
+
+.navbar .navbar-toggler {
+    border: none;
+}
+
+.navbar-brand {
+    font-weight: 500;
+}
+
+.navbar-nav {
+    letter-spacing: 2px;
+}
+
+/* /navbar */
+
+/* seasonal */
+
+.title-container {
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.container-subheading {
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.img-fluid {
+    width: 100vh;
+    height: 65vh;
+    border-radius: 20px;
+}
+
+
+.icon {
+    color: #e82e2e;
+    padding: 10px;
+    transition: all 0.3s ease 0s;
+}
+
+.icon:hover {
+    color: #f59e42;
+}
+
+.season-title {
+    padding: 0 0 20px 0;
+
+}
+
+/* /seasonal */
+
+/* Footer */
+
+.footer {
+    background-color: #ff0000;
+    color: #fafafa;
+    float: right;
+}
+
+/* /footer */
