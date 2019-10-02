@@ -66,6 +66,10 @@ body {
     letter-spacing: 2px;
 }
 
+.jumbotron-header {
+    font-weight: 500;
+}
+
 /* /navbar */
 
 /* seasonal */
@@ -104,6 +108,10 @@ body {
 
 }
 
+
+
+
+
 /* /seasonal */
 
 /* Footer */
@@ -115,3 +123,88 @@ body {
 }
 
 /* /footer */
+
+/* media queries */
+
+@media (min-width: 576px) {
+    ...
+}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+    ...
+}
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {
+    ...
+}
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {
+    ...
+}
+
+
+/* /media queries */
+
+.history-heading {
+    color: black;
+    margin-bottom: 50px;
+}
+
+.timeline-item {
+    padding: 4em 2em 0em 2em;
+    position: relative;
+    color: red;
+    border-left: 1px solid;
+}
+
+.timeline-item p {
+    padding: 0;
+    margin: 0;
+}
+
+.timeline-item:before {
+    content: attr(data-dates);
+    position: absolute;
+    left: 2.5em;
+    top: 3em;
+    display: block;
+    font-family: "Exo", sans-serif;
+    font-weight: 500;
+    font-size: 0.8em;
+    padding: 0;
+    margin: 0;
+}
+
+.timeline-item:after {
+    width: 12px;
+    height: 12px;
+    display: block;
+    top: 2.4em;
+    position: absolute;
+    left: -6px;
+    border-radius: 12px;
+    content: '';
+    background-color: #fafafa;
+}
+
+.history-items {
+    margin-bottom: 30px;
+}
+
+
+
+
+
+
+.nav-logo {
+    height: 40px;
+    width: 150px;
+    cursor: pointer;
+    margin-right: auto;
+    float: left;
+}
+
+
