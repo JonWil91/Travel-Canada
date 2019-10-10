@@ -1,5 +1,5 @@
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     background-color: #f1cccc;
 }
 
@@ -26,6 +26,8 @@ body {
 
 .jumbotron-header {
     font-size: 35px;
+    color: #fafafa;
+    text-shadow: 5px 5px 10px black;
 }
 
 .lead {
@@ -34,6 +36,15 @@ body {
     font-family: 'Roboto', sans-serif;
     font-weight: 600;
 
+}
+
+.about-me {
+    color: #fafafa;
+    text-shadow: 5px 5px 10px black;
+}
+
+.about-me-text {
+    color: black;
 }
 
 
@@ -141,6 +152,10 @@ body {
     float: right;
 }
 
+.ml-auto {
+    float: right;
+}
+
 /* /footer */
 
 /* media queries */
@@ -164,9 +179,8 @@ body {
 
 /* /media queries */
 
-.history-heading {
-    color: black;
-    margin-bottom: 50px;
+.title {
+    color: #fafafa;
 }
 
 .timeline-item {
@@ -208,4 +222,15 @@ body {
 
 .history-items {
     margin-bottom: 30px;
+}
+
+.extra-info {
+    color: red;
+}
+
+.card, .card-reader {
+    background-color: transparent;
+    border: none !important;
+    padding: 0;
+    margin-bottom: 20px;
 }
