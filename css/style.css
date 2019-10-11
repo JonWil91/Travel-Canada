@@ -231,7 +231,9 @@ button {
 
 /* Contact */
 
-.contact-box {}
+.contact-box {
+    height: 50px;
+}
 
 
 
