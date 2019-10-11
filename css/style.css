@@ -3,52 +3,6 @@ body {
     background-color: #f1cccc;
 }
 
-/* landing page */
-
-.callout-container {
-    height: 100vh;
-    background: url("../images/canada-landing-page.jpg") no-repeat bottom right fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-
-    display: flex;
-    justify-content: center;
-    position: relative;
-}
-
-.jumbotron {
-    background-color: transparent;
-    margin-top: 30px;
-    color: #fafafa;
-}
-
-.jumbotron-header {
-    font-size: 35px;
-    color: #fafafa;
-    text-shadow: 5px 5px 10px black;
-}
-
-.lead {
-    margin-top: 30px;
-    color: #de5858;
-    font-family: 'Roboto', sans-serif;
-    font-weight: 600;
-
-}
-
-.about-me {
-    color: #fafafa;
-    text-shadow: 5px 5px 10px black;
-}
-
-.about-me-text {
-    color: black;
-}
-
-
-/* /landing page */
 
 /* Navbar */
 
@@ -87,6 +41,56 @@ body {
 }
 
 /* /navbar */
+
+/* landing page */
+
+.callout-container {
+    height: 100vh;
+    background: url("../images/canada-landing-page.jpg") no-repeat bottom right fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.jumbotron {
+    background-color: transparent;
+    margin-top: 30px;
+    color: #fafafa;
+}
+
+.jumbotron-header {
+    font-size: 40px;
+    color: #fafafa;
+    text-shadow: 5px 5px 10px black;
+}
+
+.lead {
+    margin-top: 30px;
+    color: #de5858;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    font-size: 25px;
+    text-shadow: 5px 5px 10px #fafafa;
+
+
+}
+
+.about-me {
+    color: #fafafa;
+    text-shadow: 5px 5px 10px black;
+}
+
+.about-me-text {
+    color: black;
+}
+
+
+/* /landing page */
 
 /* seasonal */
 
@@ -136,48 +140,36 @@ body {
     padding: 10px;
 }
 
+.card-header {
+    justify-content: center;
+    display: flex;
+    background-color: transparent;
+    border: none;
+    text-decoration: none;
+}
 
+button {
+    text-decoration: none;
+}
 
+.btn-link {
+    font-size: 20px;
+}
 
-
+.btn-link:hover,
+.btn-link:active,
+.btn-link:focus {
+    text-decoration: none;
+    background-color: #ff0000;
+    color: #fafafa;
+    font-size: 20px;
+    border-radius: 5px;
+}
 
 
 /* /seasonal */
 
-/* Footer */
 
-.footer {
-    background-color: #ff0000;
-    color: #fafafa;
-    float: right;
-}
-
-.ml-auto {
-    float: right;
-}
-
-/* /footer */
-
-/* media queries */
-
-/* mobile devices */
-
-@media (max-width: 576px) {}
-
-/* Medium devices (tablets, 768px and up) */
-
-@media (min-width: 768px) {}
-
-/* Large devices (desktops, 992px and up) */
-
-@media (min-width: 992px) {}
-
-/* Extra large devices (large desktops, 1200px and up) */
-
-@media (min-width: 1200px) {}
-
-
-/* /media queries */
 
 .title {
     color: #fafafa;
@@ -228,9 +220,41 @@ body {
     color: red;
 }
 
-.card, .card-reader {
+.card,
+.card-reader {
     background-color: transparent;
     border: none !important;
     padding: 0;
     margin-bottom: 20px;
 }
+
+
+/* Contact */
+
+.contact-box {}
+
+
+
+/* /Contact */
+
+/* Footer */
+
+.footer {
+    background-color: #ff0000;
+    color: #fafafa;
+    float: right;
+}
+
+.footer-contact {
+    background-color: #ff0000;
+    color: #fafafa;
+    float: right;
+    position: absolute;
+    bottom: 0;
+}
+
+.ml-auto {
+    float: right;
+}
+
+/* /footer */
