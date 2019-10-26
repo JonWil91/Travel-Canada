@@ -1,5 +1,3 @@
-README.md
-
 Milestone Project 1
 
 Travel Canada Website
@@ -118,7 +116,6 @@ The image used on desktop devices was taken from www.shutterstock.com. The idea 
 was inspired by the "Whiskey Drop" project.
 
 
-Do i need to mention the websites of links i've used in website?
 
 
 https://github.com/AJGreaves/portrait-artist
