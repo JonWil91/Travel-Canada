@@ -36,9 +36,6 @@ body {
     letter-spacing: 2px;
 }
 
-.jumbotron-header {
-    font-weight: 500;
-}
 
 /* /navbar */
 
@@ -77,7 +74,6 @@ body {
     font-size: 25px;
     text-shadow: 5px 5px 10px #fafafa;
 
-
 }
 
 .about-me {
@@ -110,13 +106,6 @@ body {
     width: 100vh;
     height: 65vh;
     border-radius: 20px;
-}
-
-.flag-picture {
-    width: 90vh;
-    height: 65vh;
-    border-radius: 20px;
-    margin-top: 90px
 }
 
 
@@ -169,6 +158,8 @@ button {
 
 /* /seasonal */
 
+
+/* Info */
 
 
 .title {
@@ -228,6 +219,14 @@ button {
     margin-bottom: 20px;
 }
 
+.flag-picture {
+    width: 90vh;
+    height: 65vh;
+    border-radius: 20px;
+    margin-top: 90px
+}
+
+/* /Info */
 
 /* Contact */
 
