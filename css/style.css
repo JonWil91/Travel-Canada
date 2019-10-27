@@ -114,11 +114,6 @@ body {
 .icon {
     color: #e82e2e;
     padding: 10px;
-    transition: all 0.3s ease 0s;
-}
-
-.icon:hover {
-    color: #f59e42;
 }
 
 .season-title {
