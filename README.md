@@ -14,6 +14,10 @@ The 'seasonal' page is largely opinion based as the text is based purely on pers
 
 The website was designed with the idea that it would be something I would have found useful myself. There are links to a government website with details on what the user needs to look for, a working holiday company example with an explanation of the services they provided me and my personal opinion on them. As well as this there is information on health insurance, and a brief introduction into Canadian culture. This is all useful information I personally never encountered in one place, in a bite size display that is easy to disgest. This would be the first page a user would study for the essential information they need.
 
+[Link to images folder to view wireframe initial sketches](https://github.com/JonWil91/Milestone-project-1/tree/master/images)
+
+The final design of the website followed the themes from the sketches, but evolved upon viewing what worked best and looked best for the user on different devices. My mentor was also very helpful in pointing out the different that it would make changing the seasonal page to stack the content for mobile and tablet, and for image and text content side by side on desktop. It was part of the learning process to produce more detailed wireframe work for future projects.
+
 
 ## User stories:
 
