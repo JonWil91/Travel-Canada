@@ -16,7 +16,7 @@ The website was designed with the idea that it would be something I would have f
 
 [Link to images folder to view wireframe initial sketches](https://github.com/JonWil91/Milestone-project-1/tree/master/images)
 
-The final design of the website followed the themes from the sketches, but evolved upon viewing what worked best and looked best for the user on different devices. My mentor was also very helpful in pointing out the different that it would make changing the seasonal page to stack the content for mobile and tablet, and for image and text content side by side on desktop. It was part of the learning process to produce more detailed wireframe work for future projects.
+The final design of the website followed the themes from the sketches, but evolved upon viewing what worked best and looked best for the user on different devices. My mentor was also very helpful in pointing out the difference that it would make changing the seasonal page to stack the content for mobile and tablet, and for image and text content side by side on desktop. It was part of the learning process to produce more detailed wireframe work for future projects.
 
 
 ## User stories:
@@ -121,15 +121,15 @@ The info page took inspiration from the "Resume project" in the use of the timel
 
 To supplement my content I used third party websites, which provided links to different tabs with the goal that the user should be able to view the additional website and be able to come back to mine easily. The following websites were used:
 
-*SilverStar Mountain (https://www.skisilverstar.com/)*
+[SilverStar Mountain](https://www.skisilverstar.com/)
 
-*Government website (https://www.gov.uk/foreign-travel-advice/canada/entry-requirements)*
+[Government website](https://www.gov.uk/foreign-travel-advice/canada/entry-requirements)
 
-*Working Holiday Club (https://www.theworkingholidayclub.com/canada/)*
+[Working Holiday Club](https://www.theworkingholidayclub.com/canada/)
 
-*Travel Councellors (https://www.travelcounsellors.co.uk/gb/leisure)*
+[Travel Councellors](https://www.travelcounsellors.co.uk/gb/leisure)
 
-*Canadian Affair (https://www.canadianaffair.com/blog/safely-responsibly-watch-wildlife-canada/)*
+[Canadian Affair](https://www.canadianaffair.com/blog/safely-responsibly-watch-wildlife-canada/)
 
 ### Disclaimer:
 
