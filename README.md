@@ -36,7 +36,7 @@ Every page has the following features:
 
 ### Index page:
 
-The index page has a callout container with a background image that takes up the whole screen and declares what this website is for. This idea was inspired by www.simplesite.company
+The index page has a callout container with a background image that takes up the whole screen and declares what this website is for. This idea was inspired by www.simplesite.com
 
 ### Seasonal page:
 
@@ -117,11 +117,15 @@ The info page took inspiration from the "Resume project" in the use of the timel
 
 To supplement my content I used third party websites, which provided links to different tabs with the goal that the user should be able to view the additional website and be able to come back to mine easily. The following websites were used:
 
-*[SilverStar Mountain] (https://www.skisilverstar.com/)
-[Government website] (https://www.gov.uk/foreign-travel-advice/canada/entry-requirements)
-[Working Holiday Club] (https://www.theworkingholidayclub.com/canada/)
-[Travel Councellors] (https://www.travelcounsellors.co.uk/gb/leisure)
-[Canadian Affair] (https://www.canadianaffair.com/blog/safely-responsibly-watch-wildlife-canada/)*
+*SilverStar Mountain (https://www.skisilverstar.com/)*
+
+*Government website (https://www.gov.uk/foreign-travel-advice/canada/entry-requirements)*
+
+*Working Holiday Club (https://www.theworkingholidayclub.com/canada/)*
+
+*Travel Councellors (https://www.travelcounsellors.co.uk/gb/leisure)*
+
+*Canadian Affair (https://www.canadianaffair.com/blog/safely-responsibly-watch-wildlife-canada/)*
 
 ### Disclaimer:
 
