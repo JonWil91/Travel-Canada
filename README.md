@@ -2,6 +2,8 @@ Milestone Project 1
 
 # Travel Canada Website
 
+The website can be found at [Travel Canada](https://jonwil91.github.io/Canadian-Working-Visa/)
+
 This website is my first project after the culmination of studying the fundamentals of HTML, CSS, and responsive design.
 
 I have a personal history of having lived and worked in Canada on a 2 year working visa and I wanted to create a website for anyone who was considering a similar decision. The website provides a simple landing page announcing the purpose of the website, an overview of what seasonal life would be like in winter and summer, a step by step approach for attaining a working visa and what to expect when making the move to live in Canada, and a contact page is available for any additional information a user may require.
