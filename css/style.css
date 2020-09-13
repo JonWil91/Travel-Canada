@@ -206,6 +206,7 @@ button {
 
 .extra-info {
     color: red;
+    margin-top: 100px;
 }
 
 .card,
@@ -259,4 +260,19 @@ button {
 
 /* /footer */
 
+@media only screen and (max-width: 600px) {
+  .flag-picture {
+    width: 45vh;
+    height: 30vh;
+    border-radius: 20px;
+  }
+}
+
+@media only screen and (max-width: 990px) {
+  .flag-picture {
+    width: 45vh;
+    height: 30vh;
+    border-radius: 20px;
+  }
+}
 
