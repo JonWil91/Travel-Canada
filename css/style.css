@@ -222,10 +222,16 @@ button {
 
 .contact-box {
     height: 100%;
+    width: 60%;
 }
 
 .contact-button {
     background-color: #ff0000;
+}
+
+.contact-button:hover, :focus {
+    background-color: #fafafa;
+    color: #ff0000;
 }
 
 /* /Contact */
