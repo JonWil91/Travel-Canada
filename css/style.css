@@ -244,6 +244,7 @@ button {
     background-color: #ff0000;
     color: #fafafa;
     float: right;
+    margin-top: 20px;
 }
 
 .footer-contact {
