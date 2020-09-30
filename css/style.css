@@ -18,14 +18,13 @@ a:hover {
     padding-left: 0;
     padding-right: 0;
     z-index: 1;
-    background-color: #ff0000;
+    background-color: #ce2f2f;
 }
 
 .navbar {
     margin-bottom: 0;
     border: 0;
     width: 100%;
-    background-color: rgba(0, 0, 0, 0.25);
 }
 
 .navbar-toggler {
@@ -144,7 +143,7 @@ button {
 .btn-link:active,
 .btn-link:focus {
     text-decoration: none;
-    background-color: #ff0000;
+    background-color: #ce2f2f;
     color: #fafafa;
     font-size: 25px;
     border-radius: 5px;
@@ -226,12 +225,12 @@ button {
 }
 
 .contact-button {
-    background-color: #ff0000;
+    background-color: #ce2f2f;
 }
 
 .contact-button:hover, :focus {
     background-color: #fafafa;
-    color: #ff0000;
+    color: #ce2f2f;
 }
 
 /* /Contact */
@@ -239,13 +238,13 @@ button {
 /* Footer */
 
 .footer {
-    background-color: #ff0000;
+    background-color: #ce2f2f;
     color: #fafafa;
     float: right;
 }
 
 .footer-contact {
-    background-color: #ff0000;
+    background-color: #ce2f2f;
     color: #fafafa;
     float: right;
     position: absolute;
