@@ -9,6 +9,13 @@ a:hover {
     text-decoration: none;
 }
 
+.page-title {
+    font-size: 40px;
+    color: #fafafa;
+    font-weight: 700;
+    text-shadow: -1px 2px 0 #000;
+}
+
 /* Navbar */
 
 .navalert-container {
@@ -38,6 +45,10 @@ a:hover {
 
 .navbar-nav {
     letter-spacing: 2px;
+}
+
+.nav-link:active {
+    text-decoration: none;
 }
 
 
@@ -104,7 +115,7 @@ a:hover {
 
 .img-fluid {
     width: 100vh;
-    height: 65vh;
+    height: 100%;
     border-radius: 20px;
 }
 
@@ -228,7 +239,7 @@ button {
     background-color: #ce2f2f;
 }
 
-.contact-button:hover, :focus {
+.contact-button:hover {
     background-color: #fafafa;
     color: #ce2f2f;
 }
