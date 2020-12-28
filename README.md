@@ -2,7 +2,7 @@ Milestone Project 1
 
 # Travel Canada Website
 
-The website can be found at [Travel Canada](https://jonwil91.github.io/milestone-1/)
+The website can be found at [Travel Canada](https://jonwil91.github.io/Travel-Canada/)
 
 This website is my first project after the culmination of studying the fundamentals of HTML, CSS, and responsive design.
 
